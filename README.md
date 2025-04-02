@@ -3,7 +3,7 @@
 A fully interactive and responsive product catalog built with React. The catalog includes a shopping cart, favorites page, product details, and sorting/filtering functionalities. Users can search for products across categories like Phones, Tablets, and Accessories.
 
 ## Demo
-🔗 [Live Preview](#)
+🔗 [Live Preview](https://didarie.github.io/nice-gadget-store_website/)
 
 ## Design References
 🖼 [Figma Mockup](https://www.figma.com/file/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original)
